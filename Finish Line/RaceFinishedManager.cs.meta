@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1f54be3142634425d9b278bb9e665908
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - onActorPassedFinish: {fileID: 11400000, guid: cee29339f3a4c460c9b8bf18c0681479, type: 2}
+  - onPlayerPassedFinish: {fileID: 11400000, guid: b7e30605459dc46939668a8b993ce083, type: 2}
+  - onPlayerLost: {instanceID: 0}
+  - onWinnersAnnounced: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

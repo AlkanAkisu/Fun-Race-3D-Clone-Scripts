@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: b2e65ddba56734242800237587b5eb1f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - onRaceStart: {instanceID: 0}
+  - _middlePoint: {instanceID: 0}
+  - onPlayerDied: {instanceID: 0}
+  - onPlayerBackTrack: {instanceID: 0}
+  - onPlayerPassedFinish: {instanceID: 0}
+  - onPlayerLost: {fileID: 11400000, guid: b7e30605459dc46939668a8b993ce083, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
